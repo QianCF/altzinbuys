@@ -1,0 +1,4 @@
+<meta name="description"content="这里是AltzinWeb，是Altzin正在测试的一个网站，全天开放，欢迎进入！">
+<meta name="author"content="Altzin">
+<meta name="keywords" content="altzinweb,altzinweb,altzinweb,AltzinWeb,AltzinWeb,AltzinWeb,喵不拉几,Meow,Altzin,cat,喵,喵测试,喵测试网,喵测试网站,altzin,Cat,meow,网站,喵网,喵网三世,三世,喵妹妹留言板"/>
+<meta name="msvalidate.01" content="6B478A0A2F3171970934869BDC0F404B" />
